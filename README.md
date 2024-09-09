@@ -9,7 +9,11 @@
 
 #### Steps
 - Set up Mongodb locally i.e MongoDB Compass. database name: nexus_db. Collection name: users and run in on local host 27017
+- local installation: npm install --save-dev nodemon, "scripts": {
+  "start": "nodemon server.js"
+}
 - Server.js
+- npm start
 - Modify Register.jsx to make API requests that points to the correct url i.e http://localhost:5000/register
 - Modify Login.jsx to make API requests that points to the correct url i.e http://localhost:5000/login
 - start the backend using node server.js (runs on port 5000)
