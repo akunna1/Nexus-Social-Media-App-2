@@ -7,9 +7,6 @@
 - email: astraquanta@gmail.com
 - password: akunnaya1234$
 
-- Allow users modify profile photo, cover photo, age, description and location
-- Allow users make post
-
 #### Steps
 - Set up Mongodb locally i.e MongoDB Compass. database name: nexus_db. Collection name: users and run in on local host 27017
 - local installation: npm install --save-dev nodemon, "scripts": {
