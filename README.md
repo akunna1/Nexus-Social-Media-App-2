@@ -7,7 +7,7 @@
 - email: astraquanta@gmail.com
 - password: akunnaya1234$
 
-- Allow users modify profile, profile photo, cover photo, age and location
+- Allow users modify profile photo, cover photo, age, description and location
 - Allow users make post
 
 #### Steps
