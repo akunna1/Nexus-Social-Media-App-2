@@ -8,7 +8,7 @@
 - password: akunnaya1234$
 
 #### Steps
-- Set up Mongodb locally i.e MongoDB Compass. database name: nexus_db. Collection name: users and run in on local host 27017
+- Set up Mongodb locally i.e MongoDB Compass. database name: nexus_db. Collection name: users and run it on local host 27017
 - local installation: npm install --save-dev nodemon, "scripts": {
   "start": "nodemon server.js"
 }
