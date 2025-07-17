@@ -106,8 +106,3 @@ npm run dev
 * The **backend** (`server.js`) only provides API endpoints — it does **not** serve any static frontend files.
 * All user interactions are handled by the React frontend, which makes HTTP requests to the backend endpoints.
 
----
-
-## 🗂️ Status
-
-**✔️ Testing completed successfully!**
